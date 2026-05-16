@@ -13,7 +13,7 @@ humandate: "June 01 - 02 2026"    # human-readable dates for the workshop (e.g.,
 humantime: "9:00 am - 1:00 pm CET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-01-06      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-02-06      # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Elena Eftimova (Day 1)", "Santiago Casas (Day 2)"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Elena Eftimova", "Santiago Casas"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 email: ["hida-courses@helmholtz.de","elena.eftimova@dlr.de","santiago.casascastro@dlr.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2026-01-06-kickstart-python  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
