@@ -433,8 +433,4 @@ to include the relevant installation instructions.
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
-{% elsif site.carpentry == "incubator" %}
-Please check the "Setup" page of
-<a href="{{site.incubator_lesson_site}}">the lesson homepage</a> for instructions to follow
-to obtain the software and data you will need to follow the lesson.
 {% endif %}
